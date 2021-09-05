@@ -3,6 +3,6 @@
 A work-in-progress C++ program to rotate images.
 
 #### To Do:
- - [ ] start writing the program
- - [ ] make the program work on one file first
+ - [X] start writing the program
+ - [X] make the program work on one file first
  - [ ] make a nice command line interface
